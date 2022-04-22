@@ -483,7 +483,10 @@ footer{
   font-size: 0.8rem;
   line-height: 1.4;
 }
-.vodTitle{ text-align: left;}
+.vodTitle{ 
+  text-align: left;
+  line-height: 1.2;
+}
 .secNavTitle{ font-size: 1.2rem;}
 .secNavTitle p:before {
   content: "";
